@@ -1,0 +1,14 @@
+*.o
+tags
+*.d
+*.elf
+*.map
+*.list
+*.swp
+*~
+.*~
+
+# IAR Embedded Workbench
+*.dep
+EWARM/settings/
+EWARM/*/
